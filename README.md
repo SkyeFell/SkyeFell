@@ -18,7 +18,7 @@ I have five years of experience both in BackEnd (NodeJS, Java, C, Python) and Fr
 
 ---
 
-If there's a project you think I could help improve or bring to reality, feel free to contact me on Discord: skyesight
+If there's a project you think I could help improve or bring to reality, feel free to contact me on Discord: skyesight<br>
 N.B.: Make sure you also send me a message alongside the request, since as of recently spam requests are all too common on the platform
 
 If time's on my side, I'll respond post-haste.<br>
